@@ -3,5 +3,10 @@
     "package": "collateral",
     "url": "https://github.com/jimjam-slam/collateral",
     "branch" :"main"
+  },
+  {
+    "package": "ggflags",
+    "url": "https://github.com/jimjam-slam/gglfags",
+    "branch" :"dev"
   }
 ]
