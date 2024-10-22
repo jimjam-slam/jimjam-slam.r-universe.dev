@@ -2,12 +2,12 @@
   {
     "package": "collateral",
     "url": "https://github.com/jimjam-slam/collateral",
-    "branch" :"main"
+    "branch": "main"
   },
   {
     "package": "ggflags",
     "url": "https://github.com/jimjam-slam/ggflags",
-    "branch" :"main"
+    "branch": "main"
   },
   {
     "package": "stickylabeller",
